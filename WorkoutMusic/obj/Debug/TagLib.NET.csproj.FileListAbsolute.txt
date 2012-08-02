@@ -1,0 +1,10 @@
+C:\Users\Nick\Downloads\taglib-sharp-2.1.0.0-windows\taglib-sharp-2.1.0.0-windows\src\TagLib.NET\bin\Debug\TagLib.NET.dll
+C:\Users\Nick\Downloads\taglib-sharp-2.1.0.0-windows\taglib-sharp-2.1.0.0-windows\src\TagLib.NET\bin\Debug\TagLib.NET.pdb
+C:\Users\Nick\Downloads\taglib-sharp-2.1.0.0-windows\taglib-sharp-2.1.0.0-windows\src\TagLib.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\taglib-sharp-2.1.0.0-windows\taglib-sharp-2.1.0.0-windows\src\TagLib.NET\obj\Debug\TagLib.NET.dll
+C:\Users\Nick\Downloads\taglib-sharp-2.1.0.0-windows\taglib-sharp-2.1.0.0-windows\src\TagLib.NET\obj\Debug\TagLib.NET.pdb
+C:\Users\Nick\Source Code\TagLib.NET\bin\Debug\TagLib.NET.dll
+C:\Users\Nick\Source Code\TagLib.NET\bin\Debug\TagLib.NET.pdb
+C:\Users\Nick\Source Code\TagLib.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Source Code\TagLib.NET\obj\Debug\TagLib.NET.dll
+C:\Users\Nick\Source Code\TagLib.NET\obj\Debug\TagLib.NET.pdb
